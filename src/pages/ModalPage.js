@@ -27,13 +27,8 @@ function ModalPage() {
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis enim vel sapien sodales vestibulum. Etiam ac sodales tellus. Morbi ligula odio, suscipit id mollis quis, porta eget elit. Quisque ligula diam, bibendum sed lectus eu, porta ultrices dui. Maecenas ante quam, maximus in sapien vel, rhoncus tempus felis. Donec pretium iaculis magna, sed rutrum libero scelerisque volutpat. Etiam finibus sapien nec velit pulvinar, eu ultrices massa bibendum.
         </p>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis enim vel sapien sodales vestibulum. Etiam ac sodales tellus. Morbi ligula odio, suscipit id mollis quis, porta eget elit. Quisque ligula diam, bibendum sed lectus eu, porta ultrices dui. Maecenas ante quam, maximus in sapien vel, rhoncus tempus felis. Donec pretium iaculis magna, sed rutrum libero scelerisque volutpat. Etiam finibus sapien nec velit pulvinar, eu ultrices massa bibendum.
-        </p>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis enim vel sapien sodales vestibulum. Etiam ac sodales tellus. Morbi ligula odio, suscipit id mollis quis, porta eget elit. Quisque ligula diam, bibendum sed lectus eu, porta ultrices dui. Maecenas ante quam, maximus in sapien vel, rhoncus tempus felis. Donec pretium iaculis magna, sed rutrum libero scelerisque volutpat. Etiam finibus sapien nec velit pulvinar, eu ultrices massa bibendum.
-
-        </p>
+       
+       
        
     </div>
 }
